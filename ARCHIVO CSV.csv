@@ -1,0 +1,41 @@
+N°;COD;RUTA;FECHA;CLIENTE;PLACA;CISTERNA;CONDUCTOR;CEDULA;KG;$
+1;30927;Cartagena-Puerto Vidagas Cartagena;2023-03-01;Vidagas;SBL633;R09492;Pedro Garcia Caballero;73126698;17176;271209
+2;30996;Vidagas Cartagena Vidagas Sincelejo;2023-03-01;Vidagas;SMY767;R09492;Wanerji Angulo;73240296;8487;2045367
+3;30373;Vidagas Cartagena Vidagas Sincelejo;2023-03-01;Vidagas;WLS383;S57745;Diomar Hernandez Garay;79505136;0;0
+4;30956;Cusiana Chilco Yumbo;2023-03-01;Chilco;GET994;S59664;Gerardo Pino Alvarez;3649994;28017;8517180
+5;30946;Cusiana Vidagas Bello;2023-03-01;Vidagas;GET081;S59668;Luis Martin Leon;80376521;28006;8093734
+6;30930;Ecopetrol Cupiagua Chilco Yumbo;2023-03-01;Chilco;TSX573;S59864;Fabian Cañon Alvarado;312368218;28036;9083742
+7;30931;Cartagena-Puerto Vidagas Cartagena;2023-03-01;Vidagas;SBL633;R09492;Pedro Garcia Caballero;73126698;17172;271146
+8;30932;Cusiana Vidagas Manizales;2023-03-01;Vidagas;WFC040;S59870;Ramiro Morales Galvis;7701903;28503;7070391
+9;30933;Puerto Salgar Vidagas Bello;2023-03-01;Vidagas;TTZ304;S59649;Tulio Hernandez Mora;3649478;27991;3050975
+3;30952;Puerto Salgar Planta conjunta Bucaramanga;2023-03-02;Chilco;TAX984;S60977;Ruben Gomez Rodriguez;79832503;28890;5489030
+11;30948;Cartagena-Puerto Vidagas Cartagena;2023-03-02;Vidagas;SBL633;R09492;Pedro Garcia Caballero;73126698;17244;272283
+12;30947;Cartagena-Puerto Vidagas Cartagena;2023-03-02;Vidagas;SBL633;R09492;Pedro Garcia Caballero;73126698;20251;319763
+13;30955;Yopal Chilco Yumbo;2023-03-02;Chilco;TAX972;S59867;Ruben Castañeda Barbosa;79319709;26440;0
+14;30944;Puerto Salgar Vidagas Bello;2023-03-02;Vidagas;TAX847;S59875;Carlos Vanegas Castro;80204714;28021;3054300
+15;30957;Puerto Salgar Chilco Marinilla;2023-03-02;Chilco;GET969;S59652;Gilberto Bello Mogollon;79188396;25000;3050000
+16;30365;Vidagas Cartagena Vidagas Valledupar;2023-03-02;Vidagas;TEO580;S59652;Josue Montejo Mantilla;12496314;8289;3091797
+17;30951;Ecopetrol Cupiagua Chilco Yumbo;2023-03-02;Chilco;SXL465;S59874;Fredy Gaitan Pedraza;79707723;28022;9079232
+18;30950;Ecopetrol Cupiagua Chilco Yumbo;2023-03-03;Chilco;TTZ302;S60991;Julian Villareal Osorio;6499814;28076;9096605
+19;30949;Puerto Salgar Chilco Yumbo;2023-03-03;Chilco;SXL449;S59876;Freddy Martinez Miranda;79604155;27970;5649940
+20;30945;Puerto Salgar Vidagas Bello;2023-03-03;Vidagas;TTZ304;S59649;Tulio Hernandez Mora;3649478;28023;3054551
+21;30941;Ecopetrol Cupiagua Unigas Siberia;2023-03-03;Vidagas;WFL316;S57367;German Ballesteros Argaes;77158959;23042;3825025
+22;30940;Ecopetrol Cupiagua Vidagas Facatativa;2023-03-03;Vidagas;TAM597;S46689;Mario Cortes Ospina;3055380;27566;4824033
+23;30978;Puerto Salgar Chilco Popayan;2023-03-04;Chilco;SXL466;S60976;Jose Parra Castaño;18396448;27690;7337850
+24;30973;Cusiana Chilco Marinilla;2023-03-04;Chilco;WLR902;S57760;Jose Gil Arias;7186724;28003;8288882
+25;30975;Cusiana Chilco Yumbo;2023-03-04;Chilco;SZZ156;S59666;Rodrigo Luque Sanchez;79737358;28009;8514836
+26;30976;Cusiana Chilco Pasto;2023-03-04;Chilco;SZZ154;S59868;Pedro Olivos Silva;79852801;28017;12299282
+27;30977;Ecopetrol Cupiagua Chilco Marinilla;2023-03-04;Chilco;JKU766;S59873;Yesid Morales Figueroa;11515739;27546;8456653
+28;30938;Cusiana Vidagas Villanueva;2023-03-04;Vidagas;TTZ303;S57621;Adriano Ricaute Nossa;9397324;28005;1316247
+29;30997;Vidagas Cartagena Vidagas Sincelejo;2023-03-04;Vidagas;SMY767;S57621;Wanerji Angulo;73240296;8624;2078264
+30;30939;Ecopetrol Cupiagua Vidagas Bucaramanga;2023-03-04;Vidagas;SZZ661;S59645;Jheison Murcia Trujillo;372643842;28025;5604998
+31;30942;Ecopetrol Cupiagua Vidagas Manizales;2023-03-04;Vidagas;SXL498;S60978;Jorge Calderon Ibarra;79709320;28027;6950696
+32;30964;Cartagena-Puerto Vidagas Cartagena;2023-03-04;Vidagas;SBL633;R09492;Pedro Garcia Caballero;73126698;16377;258593
+33;30965;Cartagena-Puerto Vidagas Cartagena;2023-03-04;Vidagas;SBL633;R09492;Pedro Garcia Caballero;73126698;14960;236218
+34;30991;Campo Corsel Puerto Salgar;2023-03-05;Chilco;TAX984;S60977;Ruben Gomez Rodriguez;79832503;27200;6038400
+35;30364;Campo Corsel Puerto Salgar;2023-03-05;Chilco;JKU764;S59670;Ruben Garcia;2988559;0;0
+36;30990;Cusiana Yopal;2023-03-05;Chilco;TJV067;S59869;Jose Guzman Romero;3951921;28011;1362742
+37;30992;Cusiana Chilco Girardot;2023-03-05;Chilco;JKU765;S56459;Richard Reyes Soler;;27318;6447061
+38;30988;Ecopetrol Cupiagua Vidagas Bello;2023-03-05;Vidagas;GES766;S59667;Henry Basante Betancourt;387748800;28056;8038265
+39;30987;Cusiana Vidagas Manizales;2023-03-05;Vidagas;SXL432;R72009;Raul Gomez Matiz;11521564;25495;6322777
+40;30984;Ecopetrol Cupiagua Vidagas Bello;2023-03-05;Vidagas;SXL453;S59651;Pedro Morales Vanegas;11519583;27837;8044867

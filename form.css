@@ -1,0 +1,59 @@
+.divform{
+    height: auto;
+    width: 50%;
+    margin: auto;
+    background-color: #00968e;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.divsection{
+    width: 100%;
+    text-align: center;
+    height: auto;
+    margin-top: 80px;
+}
+
+.Mensajes{
+    width: auto;
+    margin: auto;
+    height: auto;
+}
+
+.divform label{
+    font-family: sans-serif;
+    font-size: 20p;
+    font-style: italic;
+    color: azure;
+}
+
+.divform h1{
+    color: azure;
+    font-size: 25px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Verdana;
+    padding-top: 10px;
+}
+
+.divform button{
+    width: 100%;
+    font-family: sans-serif;
+    font-style: oblique;
+}
+
+.enlace{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    color: white;
+}
+
+body{
+    background-color: ivory;
+}
+
