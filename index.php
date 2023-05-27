@@ -135,4 +135,7 @@ include 'header.php';
 </div>
 
 </body>
+<footer>
+        <h1 style="font-size: 20px; font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center;">® 2023 Transportes Víctor & Neyder </h1>
+</footer>
 </html>
