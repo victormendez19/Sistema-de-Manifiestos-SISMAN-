@@ -98,7 +98,7 @@
             <input required type="text" id="placa_r" placeholder="Placa de la unidad tractora" class="form-control" value=""/>
           </div>
           <div class="form-group">
-            <label for="cis_r">Cisterna</label>
+            <label for="cis_r">Remolques</label>
             <input required type="text" id="cis_r" placeholder="Placa del remolque" class="form-control" value=""/>
           </div>
           <div class="form-group">
@@ -167,7 +167,7 @@
           <input required type="text" id="placau" class="form-control" />
         </div>
         <div class="form-group">
-          <label for="cisu">Cisterna</label>
+          <label for="cisu">Remolques</label>
           <input required type="text" id="cisu" class="form-control" />
         </div>
         <div class="form-group">

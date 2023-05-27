@@ -29,7 +29,7 @@
 							<th>Fecha</th>
 							<th>Cliente</th>
 							<th>Placa</th>
-							<th>Cisterna</th>
+							<th>Remolques</th>
 							<th>Conductor</th>
 							<th>Cedula</th>
 							<th>Kg</th>
