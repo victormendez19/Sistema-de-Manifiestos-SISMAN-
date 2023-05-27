@@ -17,6 +17,10 @@
 
 </head>
 
+<div class="logocamion">
+    <img src="https://cdn-icons-png.flaticon.com/512/1297/1297479.png ">
+</div>
+
 <body>
 <section class="divsection">
 <?php

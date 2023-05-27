@@ -1,3 +1,12 @@
+.logocamion{
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+.logocamion img{
+    width: 100px;
+}
+
 .divform{
     height: auto;
     width: 50%;
