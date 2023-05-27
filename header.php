@@ -34,8 +34,8 @@
                 <div class="row">
                     <div class="navbar-header">  
                         <div class="col-12">    
-                            <a class="btn btn-success rounded-bottom rounded-top" href="tabla.php">Ver registros</a>
-                            <a class="btn btn-info rounded-bottom rounded-top" href="graficos.php">Informes</a>
+                        <a style="background-color: orangered; border-color:orangered; color:black" class="btn btn-success rounded-bottom rounded-top" href="tabla.php">Ver registros</a>
+                        <a style="background-color: orangered; border-color:orangered" class="btn btn-info rounded-bottom rounded-top" href="graficos.php">Informes</a>
                         </div>
                     </div>   
                 </div>            

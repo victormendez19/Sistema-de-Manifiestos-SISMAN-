@@ -126,7 +126,7 @@ include 'header.php';
         <input name='file' class="form-control" type="file" id="formFile">
       </div>
 
-      <input type="submit" class="btn btn-success" name="enviar">
+      <input style="background-color: orangered; border-color:orangered" type="submit" class="btn btn-success" name="enviar">
    </form>
 </div>
 
