@@ -162,7 +162,7 @@ function drawChart() {
                       2]);
 
       var options = {
-        title: "Facturación por mes",
+        title: "Activos por mes",
         width: 600,
         height: 400,
         bar: {groupWidth: "95%"},
